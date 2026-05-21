@@ -205,7 +205,7 @@ void setup() {
 
 void loop() {
 
-  // 1. 미로 끝 정지선 감지 로직
+  // 미로 끝 정지선 감지 로직
 
   int valL = analogRead(5);
 
@@ -275,7 +275,7 @@ void loop() {
 
 
 
-  // 2. 주행 및 회피 알고리즘
+  // 주행 및 회피 알고리즘
 
   if (det == 1) {
 
