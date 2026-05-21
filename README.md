@@ -31,4 +31,4 @@ OS: FreeRTOS (멀티코어 태스크 할당)
    - 탈출기록 단축 및 정지 : https://youtube.com/shorts/sJ1hzj4Izsg?feature=share
 
 5. 전체 코드
-[👉 메인 주행 및 제어 코드 (ESP32) 보러가기](./ESP32)
+[메인 주행 및 제어 코드](./ESP32)
