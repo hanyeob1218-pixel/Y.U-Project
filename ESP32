@@ -134,7 +134,7 @@ void setup() {
 
   // 라이다 태스크
 
-  xTaskCreatePinnedToCore(lidarTask, "Lidar Task", 20000, NULL, 10, NULL, 1);
+  xTaskCreatePinnedToCore(lidarTask, "Lidar Task", 20000, NULL, 10, NULL, 0);
 
 
 
